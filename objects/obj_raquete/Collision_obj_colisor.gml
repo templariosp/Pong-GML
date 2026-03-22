@@ -1,0 +1,1 @@
+/// @description Colisão com saída da room
